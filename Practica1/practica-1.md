@@ -14,7 +14,7 @@
 
 Mi nobre es **Fabián Antonio Leos** y tengo 24 años. Me considero una persona alegre y risueña. Trabajo en una empresa de desarollo de software en el area de soporte tecnico y tambien como programador de el area de VR
 
-![Antonio Leos](./IMG/Foto.jpeg)
+![Antonio Leos](./IMG/Foto.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ Me gusta invertir mi tiempo en estas actividades porque son un deleite para mi v
 ## Contacto
 
 
-![Antonio Leos](./IMG/Barra.jpeg)
+![Antonio Leos](./IMG/Barra.jpg)
 - [Instagram](https://www.instagram.com/aleos_ziro?igsh=MXV3Z3lvYWZldnBkcw==)
 
 - [WhatsApp](wa.me/5611137793)
