@@ -5,3 +5,5 @@ Este es el repositorio de los contenidos de la materia **__Metodologías Web__**
 ![Antonio Leos](./Practica1//IMG/Foto.jpg)
 
 - [Practica-1](/Practica1/practica-1.md)
+
+- [Practica-2](/Practica2/practica-2.md)
